@@ -1,0 +1,1 @@
+Solutions for tasks in lab1.
